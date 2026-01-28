@@ -8,6 +8,22 @@ MW 10:10 - 11:25, Hollister 366
 #### MPS TA: Karam Hejazin (kh878)
 #### Undergrad TAs: Cathy Zhao, Sruthi Sentil, Samruddhi Oke, Sofie Cole
 
+### Office Hours (as of 01/28)
+Jacob: M 12:30-13:30, Gates 223
+
+## Setup
+Clone this repo:
+```
+git clone https://github.com/jam963/info-4940-llms-s26.git 
+```
+[Install `uv`](https://docs.astral.sh/uv/getting-started/installation/) if you haven't already, then
+```
+cd info-4940-llms-s26
+uv sync
+```
+
+# Syllabus
+
 ### Credits and Credit Hour Options
 - 3 Credits, letter grade only
 - Graduate students will complete an additional research project
