@@ -32,5 +32,5 @@ Graduates must pick from the following types of presentations:
 - **Application:** You present your designs for or prototype of an application that is related to LLMs. Your application doesn't have to be entirely functional, but it needs to be technically plausible. If the application relies on LLMs, you should clearly articulate how.
 
 #### Writeup
-In addition to your presentation, grads will submit a written report on your project using a provided $\LaTeX$ template. Your written report should be at minimum two pages, including formatted references, figures, and diagrams, as appropriate.
+In addition to your presentation, grads will submit a written report on your project. Your written report should be at minimum two pages, including formatted references, figures, and diagrams, as appropriate.
 
